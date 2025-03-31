@@ -4,3 +4,8 @@ Esta es una API de prueba que usé para un curso de FastAPI, con una base de dat
 
 
 [Aquí el link público subido en RENDER](https://fastapi-app-1-0hv1.onrender.com/)
+
+
+
+## Links useful:
+https://readme.so/es/editor
